@@ -6,7 +6,7 @@
     3px 3px 0 #34e7e4, 4px 4px 0 #34e7e4,
     5px 5px 0 #34e7e4 , 6px 6px 0 #34e7e4,
     7px 7px 0 #34e7e4,  8px 8px 0 #34e7e4,
-    9px 9px 0 #34e7e4 10px 10px 0 #34e7e4,
+    9px 9px 0 #34e7e4, 10px 10px 0 #34e7e4,
     20px 20px 30px rgba(0,0,0,0.3);
     transform: perspective(500px) rotateX(30deg);
     transition: all 0.3s ease; cursor: pointer; 
